@@ -610,19 +610,20 @@ color: #07043B;
 .illustration-mobile-2{
     
     float: right;
-}
-
-.sec-2{
     
-    width: 64.8rem;
-
 }
+
+
+
+
 h2{
+   
+width: 100vh;
     font-family: 'Raleway';
 font-style: normal;
 font-weight: 700;
 font-size: 4rem;
-line-height: 4.7rem;
+line-height: 4.696rem;
 text-align: left;
 margin-top: 17.8rem;
 }
@@ -635,6 +636,8 @@ font-weight: 400;
 font-size: 1.6rem;
 line-height: 2.4rem;
 text-align: left;
+width: 52.9rem;
+margin-left: 0;
 }
 h3{
     font-family: 'Open Sans';
@@ -655,12 +658,12 @@ hr{
 .illustration-mobile-2>img{
     width: 54.2rem;
     height: 40.9rem;
-
+    
 }
 .illustration-mobile-2{
     width: 54.2rem;
     height: 40.9rem;
-    margin: 20.2rem 0 0 auto;
+    
 }
 
 .container{
@@ -764,16 +767,7 @@ height: 7.2rem;
 text-align: left;
 
 }
-/*
-.input-2{
-   
-    display: flex;
-    flex-direction: column;
-    row-gap: 3.4rem;
 
-}
-
-*/
 #email-2{
     width: 48rem;
     height: 4.8rem;
